@@ -1,6 +1,6 @@
 ## Algoritmalar notları
 
--> selection sort\n
--> bubble sort\n
--> insertion sort\n
+-> selection sort  
+-> bubble sort  
+-> insertion sort  
 -> shell sort
